@@ -1,0 +1,15 @@
+
+.center-box{
+    padding-top:20px;
+   color:#3498db;
+   text-align: center;
+}
+.btm-Color{
+    background-color: brown;
+}
+button {
+    align-items: center;
+    border: none;
+    margin-left :500px;
+    font-size: 110%;
+}
